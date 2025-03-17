@@ -1,0 +1,7 @@
+# requirements.txt
+
+# AES encryption library
+pycryptodome>=3.10.0
+
+# Optional: Packaging your obfuscated code into a standalone executable
+pyinstaller>=5.0
